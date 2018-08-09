@@ -22,8 +22,13 @@
 
 ----
 
-## Blog
+### Blog
 - [MXNetVsTensorflow](https://medium.com/apache-mxnet/a-way-to-benchmark-your-deep-learning-framework-on-premise-4f7a0f475726)
+
+----
+
+### Kaggle
+- [Kaggle Break](https://github.com/KaggleBreak)
 
 ----
 
@@ -31,6 +36,3 @@
 - [Webpage using Django](http://ec2-34-193-19-81.compute-1.amazonaws.com)
 
 ----
-
-## Kaggle
-- [Kaggle Break](https://github.com/KaggleBreak)
