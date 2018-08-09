@@ -1,2 +1,2 @@
 # summary_prj
-summary of personal projects
+Personal Project Summary
