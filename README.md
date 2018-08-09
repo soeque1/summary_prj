@@ -19,4 +19,4 @@
 - [Target2Vec](assets/pdf/HoL_slide_4x3_hjk_open.pdf)
 
 ## Webpage Development
-- [Webpage using Django](http://ec2-34-193-19-81.compute-1.amazonaws.com)
+- [Webpage with Django](http://ec2-34-193-19-81.compute-1.amazonaws.com)
