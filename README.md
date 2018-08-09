@@ -31,6 +31,7 @@
 - [Benchmarks](https://psygrammer.github.io/psygrams/presentations/hjk_dl_benchmark.pdf)
 - [Datayanolja](https://github.com/soeque1/datayanolja.github.io/blob/master/slide/170919_hjk_datayanolja_v1.0.1..pdf)
 
+----
 
 ### Kaggle
 - [Kaggle Break](https://github.com/KaggleBreak)
