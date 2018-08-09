@@ -12,3 +12,8 @@
 ### Natural Language Process
 - [Skip-Gram](https://github.com/ski-net/dl_study_with_gluon/blob/master/Embedding/word2vec_skipgram_with_gluon.ipynb)
 - [Target2Vec](assets/pdf/HoL_slide_4x3_hjk_open.pdf)
+- [End2End-MemoryNework] (https://github.com/ski-net/dl_study_with_gluon_2nd/blob/master/QA/memn2n/n2nmn_base.ipynb)
+
+### Natural Language Process
+- [Skip-Gram](https://github.com/ski-net/dl_study_with_gluon/blob/master/Embedding/word2vec_skipgram_with_gluon.ipynb)
+- [Target2Vec](assets/pdf/HoL_slide_4x3_hjk_open.pdf)
