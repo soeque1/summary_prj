@@ -11,4 +11,4 @@
 
 ### Natural Language Process
 - [Skip-Gram](https://github.com/ski-net/dl_study_with_gluon/blob/master/Embedding/word2vec_skipgram_with_gluon.ipynb)
-- [Target2Vec]()
+- [Target2Vec](assets/pdf/HoL_slide_4x3_hjk_open.pdf)
