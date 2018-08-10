@@ -39,6 +39,6 @@
 ----
 
 ## Webpage Development
-- [Webpage using Django](http://ec2-34-193-19-81.compute-1.amazonaws.com)
+- [Webpage using Flask](http://ec2-34-193-19-81.compute-1.amazonaws.com)
 
 ----
